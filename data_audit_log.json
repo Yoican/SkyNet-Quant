@@ -1,0 +1,8 @@
+{
+    "2026-03-18": {
+        "status": "PARTIAL_OK",
+        "method": "AI_SEARCH_FALLBACK",
+        "audited_assets": ["510300", "512100", "513500", "513730", "518880", "510880", "515220", "512760", "516770"],
+        "note": "Clash network failed, used AI web search for major index prices."
+    }
+}

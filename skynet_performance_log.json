@@ -1,0 +1,671 @@
+[
+    {
+        "date": "2026-03-20",
+        "total_value": 12720.5,
+        "cash": 277.2,
+        "holdings_value": 12443.3,
+        "details": {}
+    },
+    {
+        "date": "2026-03-23",
+        "total_value": 12120.5,
+        "cash": 277.2,
+        "holdings_value": 11843.3,
+        "details": {
+            "518880": {
+                "name": "黄金ETF",
+                "shares": 600,
+                "price": 8.906,
+                "value": 5343.6
+            },
+            "512880": {
+                "name": "证券ETF",
+                "shares": 1300,
+                "price": 1.031,
+                "value": 1340.3
+            },
+            "513030": {
+                "name": "德国ETF",
+                "shares": 1200,
+                "price": 1.622,
+                "value": 1946.4
+            },
+            "513520": {
+                "name": "日经ETF",
+                "shares": 1800,
+                "price": 1.785,
+                "value": 3213.0
+            },
+            "513100": {
+                "name": "纳指100ETF",
+                "shares": 0,
+                "price": 1.664,
+                "value": 0.0
+            },
+            "513500": {
+                "name": "标普500ETF",
+                "shares": 0,
+                "price": 2.13,
+                "value": 0.0
+            },
+            "510880": {
+                "name": "红利ETF",
+                "shares": 0,
+                "price": 3.226,
+                "value": 0.0
+            },
+            "515220": {
+                "name": "煤炭ETF",
+                "shares": 0,
+                "price": 1.28,
+                "value": 0.0
+            },
+            "512760": {
+                "name": "芯片ETF",
+                "shares": 0,
+                "price": 1.55,
+                "value": 0.0
+            },
+            "516770": {
+                "name": "游戏ETF",
+                "shares": 0,
+                "price": 1.278,
+                "value": 0.0
+            },
+            "512100": {
+                "name": "中证1000ETF",
+                "shares": 0,
+                "price": 2.944,
+                "value": 0.0
+            },
+            "510300": {
+                "name": "沪深300ETF",
+                "shares": 0,
+                "price": 4.41,
+                "value": 0.0
+            }
+        }
+    },
+    {
+        "date": "2026-03-24",
+        "total_value": 8861.0,
+        "cash": 350.0,
+        "holdings_value": 8511.0,
+        "details": {
+            "510300": {
+                "name": "沪深300ETF华泰柏瑞",
+                "shares": 100,
+                "price": 4.479,
+                "value": 447.9
+            },
+            "510500": {
+                "name": "中证500ETF南方",
+                "shares": 0,
+                "price": 7.649,
+                "value": 0.0
+            },
+            "588000": {
+                "name": "科创50ETF华夏",
+                "shares": 0,
+                "price": 1.359,
+                "value": 0.0
+            },
+            "159915": {
+                "name": "创业板ETF易方达",
+                "shares": 0,
+                "price": 3.239,
+                "value": 0.0
+            },
+            "510050": {
+                "name": "上证50ETF华夏",
+                "shares": 0,
+                "price": 2.901,
+                "value": 0.0
+            },
+            "512100": {
+                "name": "中证1000ETF南方",
+                "shares": 0,
+                "price": 3.04,
+                "value": 0.0
+            },
+            "513100": {
+                "name": "纳指ETF国泰",
+                "shares": 1100,
+                "price": 1.715,
+                "value": 1886.5
+            },
+            "513500": {
+                "name": "标普500ETF博时",
+                "shares": 0,
+                "price": 2.185,
+                "value": 0.0
+            },
+            "513880": {
+                "name": "日经225ETF华安",
+                "shares": 0,
+                "price": 1.673,
+                "value": 0.0
+            },
+            "513520": {
+                "name": "日经ETF华夏",
+                "shares": 0,
+                "price": 1.833,
+                "value": 0.0
+            },
+            "513030": {
+                "name": "德国ETF华安",
+                "shares": 0,
+                "price": 1.682,
+                "value": 0.0
+            },
+            "513080": {
+                "name": "法国ETF华安",
+                "shares": 0,
+                "price": 1.669,
+                "value": 0.0
+            },
+            "513730": {
+                "name": "东南亚科技ETF华泰柏瑞",
+                "shares": 1600,
+                "price": 1.162,
+                "value": 1859.2
+            },
+            "159607": {
+                "name": "中概互联网ETF嘉实",
+                "shares": 0,
+                "price": 0.88,
+                "value": 0.0
+            },
+            "513180": {
+                "name": "恒生科技ETF华夏",
+                "shares": 0,
+                "price": 0.622,
+                "value": 0.0
+            },
+            "518880": {
+                "name": "黄金ETF华安",
+                "shares": 200,
+                "price": 9.266,
+                "value": 1853.2
+            },
+            "511010": {
+                "name": "国债ETF国泰",
+                "shares": 0,
+                "price": 140.763,
+                "value": 0.0
+            },
+            "510880": {
+                "name": "红利ETF华泰柏瑞",
+                "shares": 400,
+                "price": 3.267,
+                "value": 1306.8
+            },
+            "515220": {
+                "name": "煤炭ETF国泰",
+                "shares": 900,
+                "price": 1.286,
+                "value": 1157.4
+            },
+            "512660": {
+                "name": "军工ETF国泰",
+                "shares": 0,
+                "price": 1.289,
+                "value": 0.0
+            },
+            "512760": {
+                "name": "芯片ETF国泰",
+                "shares": 0,
+                "price": 1.587,
+                "value": 0.0
+            },
+            "515030": {
+                "name": "新能源车ETF华夏",
+                "shares": 0,
+                "price": 1.805,
+                "value": 0.0
+            },
+            "512480": {
+                "name": "半导体ETF国联安",
+                "shares": 0,
+                "price": 1.452,
+                "value": 0.0
+            },
+            "159869": {
+                "name": "游戏ETF华夏",
+                "shares": 0,
+                "price": 1.264,
+                "value": 0.0
+            },
+            "512880": {
+                "name": "证券ETF国泰",
+                "shares": 0,
+                "price": 1.047,
+                "value": 0.0
+            },
+            "512010": {
+                "name": "医药ETF易方达",
+                "shares": 0,
+                "price": 0.356,
+                "value": 0.0
+            },
+            "512800": {
+                "name": "银行ETF",
+                "shares": 0,
+                "price": 0.788,
+                "value": 0.0
+            },
+            "516160": {
+                "name": "新能源ETF南方",
+                "shares": 0,
+                "price": 3.082,
+                "value": 0.0
+            },
+            "159938": {
+                "name": "医药ETF广发",
+                "shares": 0,
+                "price": 0.616,
+                "value": 0.0
+            },
+            "510180": {
+                "name": "上证180ETF华安",
+                "shares": 0,
+                "price": 3.888,
+                "value": 0.0
+            },
+            "515050": {
+                "name": "通信ETF华夏",
+                "shares": 0,
+                "price": 2.34,
+                "value": 0.0
+            }
+        }
+    },
+    {
+        "date": "2026-03-18",
+        "total_value": 8861.0,
+        "cash": 350.0,
+        "holdings_value": 8511.0,
+        "details": {
+            "510300": {
+                "name": "沪深300ETF华泰柏瑞",
+                "shares": 100,
+                "price": 4.479,
+                "value": 447.9
+            },
+            "510500": {
+                "name": "中证500ETF南方",
+                "shares": 0,
+                "price": 7.649,
+                "value": 0.0
+            },
+            "588000": {
+                "name": "科创50ETF华夏",
+                "shares": 0,
+                "price": 1.359,
+                "value": 0.0
+            },
+            "159915": {
+                "name": "创业板ETF易方达",
+                "shares": 0,
+                "price": 3.239,
+                "value": 0.0
+            },
+            "510050": {
+                "name": "上证50ETF华夏",
+                "shares": 0,
+                "price": 2.901,
+                "value": 0.0
+            },
+            "512100": {
+                "name": "中证1000ETF南方",
+                "shares": 0,
+                "price": 3.04,
+                "value": 0.0
+            },
+            "513100": {
+                "name": "纳指ETF国泰",
+                "shares": 1100,
+                "price": 1.715,
+                "value": 1886.5
+            },
+            "513500": {
+                "name": "标普500ETF博时",
+                "shares": 0,
+                "price": 2.185,
+                "value": 0.0
+            },
+            "513880": {
+                "name": "日经225ETF华安",
+                "shares": 0,
+                "price": 1.673,
+                "value": 0.0
+            },
+            "513520": {
+                "name": "日经ETF华夏",
+                "shares": 0,
+                "price": 1.833,
+                "value": 0.0
+            },
+            "513030": {
+                "name": "德国ETF华安",
+                "shares": 0,
+                "price": 1.682,
+                "value": 0.0
+            },
+            "513080": {
+                "name": "法国ETF华安",
+                "shares": 0,
+                "price": 1.669,
+                "value": 0.0
+            },
+            "513730": {
+                "name": "东南亚科技ETF华泰柏瑞",
+                "shares": 1600,
+                "price": 1.162,
+                "value": 1859.2
+            },
+            "159607": {
+                "name": "中概互联网ETF嘉实",
+                "shares": 0,
+                "price": 0.88,
+                "value": 0.0
+            },
+            "513180": {
+                "name": "恒生科技ETF华夏",
+                "shares": 0,
+                "price": 0.622,
+                "value": 0.0
+            },
+            "518880": {
+                "name": "黄金ETF华安",
+                "shares": 200,
+                "price": 9.266,
+                "value": 1853.2
+            },
+            "511010": {
+                "name": "国债ETF国泰",
+                "shares": 0,
+                "price": 140.763,
+                "value": 0.0
+            },
+            "510880": {
+                "name": "红利ETF华泰柏瑞",
+                "shares": 400,
+                "price": 3.267,
+                "value": 1306.8
+            },
+            "515220": {
+                "name": "煤炭ETF国泰",
+                "shares": 900,
+                "price": 1.286,
+                "value": 1157.4
+            },
+            "512660": {
+                "name": "军工ETF国泰",
+                "shares": 0,
+                "price": 1.289,
+                "value": 0.0
+            },
+            "512760": {
+                "name": "芯片ETF国泰",
+                "shares": 0,
+                "price": 1.587,
+                "value": 0.0
+            },
+            "515030": {
+                "name": "新能源车ETF华夏",
+                "shares": 0,
+                "price": 1.805,
+                "value": 0.0
+            },
+            "512480": {
+                "name": "半导体ETF国联安",
+                "shares": 0,
+                "price": 1.452,
+                "value": 0.0
+            },
+            "159869": {
+                "name": "游戏ETF华夏",
+                "shares": 0,
+                "price": 1.264,
+                "value": 0.0
+            },
+            "512880": {
+                "name": "证券ETF国泰",
+                "shares": 0,
+                "price": 1.047,
+                "value": 0.0
+            },
+            "512010": {
+                "name": "医药ETF易方达",
+                "shares": 0,
+                "price": 0.356,
+                "value": 0.0
+            },
+            "512800": {
+                "name": "银行ETF",
+                "shares": 0,
+                "price": 0.788,
+                "value": 0.0
+            },
+            "516160": {
+                "name": "新能源ETF南方",
+                "shares": 0,
+                "price": 3.082,
+                "value": 0.0
+            },
+            "159938": {
+                "name": "医药ETF广发",
+                "shares": 0,
+                "price": 0.616,
+                "value": 0.0
+            },
+            "510180": {
+                "name": "上证180ETF华安",
+                "shares": 0,
+                "price": 3.888,
+                "value": 0.0
+            },
+            "515050": {
+                "name": "通信ETF华夏",
+                "shares": 0,
+                "price": 2.34,
+                "value": 0.0
+            }
+        }
+    },
+    {
+        "date": "2026-03-25",
+        "total_value": 4488.2,
+        "cash": 350.0,
+        "holdings_value": 4138.2,
+        "details": {
+            "510300": {
+                "name": "沪深300ETF华泰柏瑞",
+                "shares": 0,
+                "price": 4.539,
+                "value": 0.0
+            },
+            "510500": {
+                "name": "中证500ETF南方",
+                "shares": 0,
+                "price": 7.815,
+                "value": 0.0
+            },
+            "588000": {
+                "name": "科创50ETF华夏",
+                "shares": 0,
+                "price": 1.383,
+                "value": 0.0
+            },
+            "159915": {
+                "name": "创业板ETF易方达",
+                "shares": 0,
+                "price": 3.301,
+                "value": 0.0
+            },
+            "510050": {
+                "name": "上证50ETF华夏",
+                "shares": 0,
+                "price": 2.928,
+                "value": 0.0
+            },
+            "512100": {
+                "name": "中证1000ETF南方",
+                "shares": 0,
+                "price": 3.095,
+                "value": 0.0
+            },
+            "513100": {
+                "name": "纳指ETF国泰",
+                "shares": 300,
+                "price": 1.732,
+                "value": 519.6
+            },
+            "513500": {
+                "name": "标普500ETF博时",
+                "shares": 0,
+                "price": 2.209,
+                "value": 0.0
+            },
+            "513880": {
+                "name": "日经225ETF华安",
+                "shares": 0,
+                "price": 1.716,
+                "value": 0.0
+            },
+            "513520": {
+                "name": "日经ETF华夏",
+                "shares": 0,
+                "price": 1.86,
+                "value": 0.0
+            },
+            "513030": {
+                "name": "德国ETF华安",
+                "shares": 0,
+                "price": 1.726,
+                "value": 0.0
+            },
+            "513080": {
+                "name": "法国ETF华安",
+                "shares": 0,
+                "price": 1.716,
+                "value": 0.0
+            },
+            "513730": {
+                "name": "东南亚科技ETF华泰柏瑞",
+                "shares": 500,
+                "price": 1.188,
+                "value": 594.0
+            },
+            "159607": {
+                "name": "中概互联网ETF嘉实",
+                "shares": 0,
+                "price": 0.895,
+                "value": 0.0
+            },
+            "513180": {
+                "name": "恒生科技ETF华夏",
+                "shares": 0,
+                "price": 0.631,
+                "value": 0.0
+            },
+            "518880": {
+                "name": "黄金ETF华安",
+                "shares": 100,
+                "price": 9.646,
+                "value": 964.6
+            },
+            "511010": {
+                "name": "XD国债ETF国泰",
+                "shares": 0,
+                "price": 140.226,
+                "value": 0.0
+            },
+            "510880": {
+                "name": "红利ETF华泰柏瑞",
+                "shares": 400,
+                "price": 3.251,
+                "value": 1300.4
+            },
+            "515220": {
+                "name": "煤炭ETF国泰",
+                "shares": 600,
+                "price": 1.266,
+                "value": 759.6
+            },
+            "512660": {
+                "name": "军工ETF国泰",
+                "shares": 0,
+                "price": 1.312,
+                "value": 0.0
+            },
+            "512760": {
+                "name": "芯片ETF国泰",
+                "shares": 0,
+                "price": 1.626,
+                "value": 0.0
+            },
+            "515030": {
+                "name": "新能源车ETF华夏",
+                "shares": 0,
+                "price": 1.836,
+                "value": 0.0
+            },
+            "512480": {
+                "name": "半导体ETF国联安",
+                "shares": 0,
+                "price": 1.488,
+                "value": 0.0
+            },
+            "159869": {
+                "name": "游戏ETF华夏",
+                "shares": 0,
+                "price": 1.294,
+                "value": 0.0
+            },
+            "512880": {
+                "name": "证券ETF国泰",
+                "shares": 0,
+                "price": 1.058,
+                "value": 0.0
+            },
+            "512010": {
+                "name": "医药ETF易方达",
+                "shares": 0,
+                "price": 0.357,
+                "value": 0.0
+            },
+            "512800": {
+                "name": "银行ETF华宝",
+                "shares": 0,
+                "price": 0.792,
+                "value": 0.0
+            },
+            "516160": {
+                "name": "新能源ETF南方",
+                "shares": 0,
+                "price": 3.125,
+                "value": 0.0
+            },
+            "159938": {
+                "name": "医药ETF广发",
+                "shares": 0,
+                "price": 0.619,
+                "value": 0.0
+            },
+            "510180": {
+                "name": "上证180ETF华安",
+                "shares": 0,
+                "price": 3.94,
+                "value": 0.0
+            },
+            "515050": {
+                "name": "通信ETF华夏",
+                "shares": 0,
+                "price": 2.428,
+                "value": 0.0
+            }
+        }
+    }
+]
